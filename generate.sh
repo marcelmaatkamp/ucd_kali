@@ -1,2 +1,2 @@
 #!/bin/bash
-docker build -t marcelmaatkamp/ucd_kali:latest .
+docker build -t marcelmaatkamp/ucd-kali:latest .

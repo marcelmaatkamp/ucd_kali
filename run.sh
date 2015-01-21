@@ -1,2 +1,2 @@
 #!/bin/bash
-docker run --name ucd_kali -ti --privileged --net=host marcelmaatkamp/ucd_kali:latest 
+docker run --name ucd-kali -ti --privileged --net=host marcelmaatkamp/ucd-kali:latest 
